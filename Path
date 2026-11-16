@@ -1,0 +1,5 @@
+    PID  TTY        STIME COMMAND
+   1138 pty0     17:17:03 /usr/bin/bash
+   1213 cons0    17:19:06 /usr/bin/PS
+   1156 cons0    17:18:12 /usr/bin/bash
+   1137 ?        17:17:03 /usr/bin/mintty
